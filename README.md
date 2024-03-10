@@ -1,16 +1,25 @@
-### Hi there 👋
+# Essam Konafa - Full Stack MERN Developer
 
-<!--
-**EssamKonafa/EssamKonafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Essam Konafa, a Full Stack MERN Developer.
 
-Here are some ideas to get you started:
+🚀 **Skills:** React, Next.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Experience:** 
+- Full Stack Development Internship at ITI (July 2023 - Dec 2023).
+- Current External Instructor at ITI.
+
+💻 **Projects:**
+- Twitter(X) Clone
+- Chat Application
+- ShopHub E-commerce
+- Book Catalog App
+- Movie App
+- Amazon Clone
+- LinkedIn Clone
+
+🌐 **Contact:**
+- Email: essamazoz9@gmail.com
+- LinkedIn: [essam-konafa](https://www.linkedin.com/in/essam-konafa-589310286/)
+- WhatsApp: +201141945463
+
+Let's connect and build something amazing together! 🚀
