@@ -1,7 +1,5 @@
 # Essam Konafa - Full Stack MERN Developer
 
-👋 Hi, I'm Essam Konafa, a Full Stack MERN Developer.
-
 🚀 **Skills:** React, Next.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS.
 
 🌐 **Contact:**
