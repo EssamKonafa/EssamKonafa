@@ -4,19 +4,6 @@
 
 🚀 **Skills:** React, Next.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS.
 
-🔭 **Experience:** 
-- Full Stack Development Internship at ITI (July 2023 - Dec 2023).
-- Current External Instructor at ITI.
-
-💻 **Projects:**
-- Twitter(X) Clone
-- Chat Application
-- ShopHub E-commerce
-- Book Catalog App
-- Movie App
-- Amazon Clone
-- LinkedIn Clone
-
 🌐 **Contact:**
 - Email: essamazoz9@gmail.com
 - LinkedIn: [essam-konafa](https://www.linkedin.com/in/essam-konafa-589310286/)
