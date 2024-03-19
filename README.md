@@ -1,5 +1,5 @@
 # Essam Konafa - Full Stack MEARN Developer
-🚀 **Skills:** Angular, React, Next.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS.
+🚀 **Skills:** React, Next.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS.
 
 🌐 **Contact:**
 - Email: essamazoz9@gmail.com
